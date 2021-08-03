@@ -1,0 +1,13 @@
+body{text-align:center;}
+
+
+
+h1{
+color: #64FFDA;
+font-variant: small-caps;
+}
+#birthday { border-style:solid;
+border-color:#FFEBEE;
+border-radius: 0px;
+padding: 0px;
+width: 400px; }
